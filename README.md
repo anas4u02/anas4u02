@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anas4u02
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning Kubernetes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : anas4u02@gmail.com
 
