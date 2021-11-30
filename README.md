@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @anas4u02
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Kubernetes.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Docker and Data Structures.
+- 💞️ I’m looking to collaborate on prjects involving the use of my tech stack which includes C++, Python, JavaScript, HTML and CSS.
 - 📫 How to reach me : anas4u02@gmail.com
+- I Ocassionaly write on https://medium.com/me/stories/public
 
 <!---
 anas4u02/anas4u02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
