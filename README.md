@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Anas</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate Full  Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas4u02&label=Profile%20views&color=0e75b6&style=flat" alt="anas4u02" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mohammadanas.work@gmail.com**
 
-- 📄 Know about my experiences [[Resume](https://docs.google.com/document/d/1EBb_S-LQL4pySynkiRRNXckQyOP77Yb0/edit?usp=sharing&ouid=106321643039762096597&rtpof=true&sd=true)]
+- 📄 Know about my experiences [[Resume]([https://docs.google.com/document/d/1EBb_S-LQL4pySynkiRRNXckQyOP77Yb0/edit?usp=sharing&ouid=106321643039762096597&rtpof=true&sd=true](https://bit.ly/mohammadanas ))]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
