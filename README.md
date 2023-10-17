@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mohammadanas.work@gmail.com**
 
-- 📄 Know about my experiences [[Resume]((https://bit.ly/mohammadanas))]
+- 📄 Know about my experiences [[Resume](https://bit.ly/mohammadanas)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
