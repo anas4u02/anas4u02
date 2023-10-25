@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/m_anas23" target="blank"><img src="https://img.shields.io/twitter/follow/m_anas23?logo=twitter&style=for-the-badge" alt="m_anas23" /></a> </p>
 
-- 🔭 I’m currently working on **trydjango**
+- 🔭 I’m currently working on **merchandise**
 
 - 👯 I’m looking to collaborate on **Django Projects and Chatbots**
 
 - 📝 I regularly write articles on [https://medium.com/@anas4u02](https://medium.com/@anas4u02)
 
-- 💬 Ask me about **python, c++, golang and DevOps**
+- 💬 Ask me about **Spring Boot, Angular, Python**
 
 - 📫 How to reach me **mohammadanas.work@gmail.com**
 
