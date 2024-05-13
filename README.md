@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Spring Boot, Angular, Python**
 
-- 📫 How to reach me **mohammadanas.work@gmail.com**
+- 📫 How to reach me **anas4u02@gmail.com**
 
 - 📄 Know about my experiences [[Resume](https://bit.ly/mohammadanas)]
 
